@@ -1,3 +1,4 @@
 # yii2-ind-project
 
-![ind](https://user-images.githubusercontent.com/70685156/166071294-367f44c4-4673-4e0f-b6fb-5e3b822077b4.svg)
+
+![indiv](https://user-images.githubusercontent.com/70685156/166071558-d1bf393c-506d-44b3-bd41-05f0b02d7c8d.png)
